@@ -1,0 +1,29 @@
+{
+  "name": "ascii-whitespace",
+  "version": "1.0.0",
+  "description": "A regular expression for ASCII/HTML whitespace, as defined by W3C and WHATWG.",
+  "keywords": [
+    "whitespace",
+    "space",
+    "regex",
+    "regexp",
+    "regular expression",
+    "ascii",
+    "html",
+    "w3c",
+    "whatwg",
+    "standard",
+    "definition"
+  ],
+  "author": "John Lamansky",
+  "license": "MIT",
+  "homepage": "https://github.com/lamansky/ascii-whitespace",
+  "repository": "lamansky/ascii-whitespace",
+  "main": "index.js",
+  "devDependencies": {
+    "eslint-config-lamansky": "^1.0.0"
+  },
+  "eslintConfig": {
+    "extends": "lamansky"
+  }
+}
